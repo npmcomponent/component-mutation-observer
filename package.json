@@ -1,0 +1,12 @@
+{
+  "name": "component-mutation-observer",
+  "description": "Exposes the `MutationObserver` constructor.",
+  "version": "0.0.1",
+  "keywords": [
+    "mutation",
+    "observer",
+    "dom",
+    "changes"
+  ],
+  "dependencies": {}
+}
